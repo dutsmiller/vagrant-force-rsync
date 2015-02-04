@@ -1,0 +1,68 @@
+URxvt*termName:	rxvt-unicode
+URxvt*scrollBar_right:	false
+URxvt*scrollBar: false
+URxvt*borderLess: false
+
+#Reduced the default height, its your call.
+URxvt*geometry:	     	     	 84x20
+
+
+URxvt*font: xft:Terminus:pixelsize=30,size=12x24
+#URxvt.font:             xft:inconsolata:pixelsize=24
+
+
+# these are the old ones
+#URxvt.foreground:       #0c0c0c
+URxvt.color0:           #3f3f3f
+URxvt.color1:           #705050
+URxvt.color2:           #00b45a
+URxvt.color3:           #dfcf8f
+URxvt.color4:           #506070
+URxvt.color5:           #dc8cc3
+URxvt.color6:           #8cd0d3
+URxvt.color7:           #dcdccc
+URxvt.color8:           #709080
+URxvt.color9:           #cc5454
+URxvt.color10:          #4d9f4d
+URxvt.color11:          #f0dfaf
+URxvt.color12:          #4186be
+URxvt.color13:          #ec93d3
+URxvt.color14:          #93e0e3
+URxvt.color15:          #ffffff
+
+
+
+# these are the new ones
+URxvt*background:           #666666
+URxvt*foreground:           #cccccc
+URxvt*cursorColor:          #999999
+URxvt*colorBD:              #ffffff
+URxvt*colorUL:              #cccc66
+
+
+!Colors 0 - 15
+
+!BLK
+urxvt*color0:               #666666
+urxvt*color8:               #999999
+!RED
+urxvt*color1:               #cc9999
+urxvt*color9:               #ffcccc
+!GRN
+urxvt*color2:               #99cc99
+urxvt*color10:              #ccffcc
+!YEL
+urxvt*color3:               #cccc99
+urxvt*color11:              #ffffcc
+!BLE
+urxvt*color4:               #9999cc
+urxvt*color12:              #ccccff
+!MAG
+urxvt*color5:               #cc99cc
+urxvt*color13:              #ffccff
+!CYN
+urxvt*color6:               #99cccc
+urxvt*color14:              #ccffff
+!WHT
+urxvt*color7:               #cccccc
+urxvt*color15:              #ffffff
