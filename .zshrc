@@ -4,13 +4,6 @@ export ZSH=$HOME/.oh-my-zsh
 
 TERM=rxvt
 
-# custom morroni
-xmodmap -e "remove Lock = Caps_Lock"
-xmodmap -e "keysym Caps_Lock = Control_L"
-xmodmap -e "add Control = Control_L"
-
-feh --bg-scale /usr/share/desktop.png
-
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
